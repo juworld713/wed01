@@ -72,16 +72,17 @@ a {
   h3 {
     font-size: 50px;
   }
-  dl, p, ol {
+  dl, p {
     font-size: 45px;
   }
-  ol {
-    padding-inline-start: 72px;
+  .ham {
+    list-style: initial;
+    font-size: 45px;
+    display: block;
+    padding: 0px;
+    padding-inline-start: 57px
   }
   ul {
-    padding: 20px;
-    margin: 0;
-    list-style: none;
     display: inline-flex;
     font-size: 70px
   }
