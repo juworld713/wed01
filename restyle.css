@@ -50,7 +50,7 @@ a {
     background-color: gray;
     display: inline-block;
     color: #ffffff;
-    width: 200px;
+    width: 230px;
   }
   .c {
     background-color: red;
@@ -58,7 +58,7 @@ a {
     font-weight:bold;
     display: inline-block;
     color: #ffffff;
-    width: 200px;
+    width: 230px;
   }
   body {
     margin: 0
@@ -82,7 +82,7 @@ a {
     font-size: 45px;
   }
   ol {
-    margin: 10px;
+    padding-inline-start: 100px;
   }
   ul {
     padding: 20px;
@@ -96,7 +96,6 @@ a {
   text-decoration: none;
   }
 li {
-  padding: 20px;
   text-align: center;
   }
 }
