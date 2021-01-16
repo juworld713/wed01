@@ -46,7 +46,7 @@ a {
     padding-right: 20px;
     border: 0px;
   }
-  .v, .b {
+  .b,.v {
     background-color: gray;
     display: inline-block;
     color: #ffffff;
