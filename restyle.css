@@ -78,8 +78,7 @@ a {
   .ham {
     list-style: initial;
     font-size: 45px;
-    display: block;
-    padding: 0px;
+    display: inline-block;
     padding-inline-start: 57px
   }
   ul {
