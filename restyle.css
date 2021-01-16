@@ -81,6 +81,9 @@ a {
   dl, p, ol {
     font-size: 45px;
   }
+  ol {
+    margin: 10px;
+  }
   ul {
     padding: 20px;
     margin: 0;
