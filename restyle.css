@@ -50,7 +50,7 @@ a {
     background-color: gray;
     display: inline-block;
     color: #ffffff;
-    width: 250px;
+    width: 200px;
   }
   .c {
     background-color: red;
@@ -58,7 +58,7 @@ a {
     font-weight:bold;
     display: inline-block;
     color: #ffffff;
-    width: 250px;
+    width: 200px;
   }
   body {
     margin: 0
