@@ -36,6 +36,9 @@ a {
   color: black;
   text-decoration: none;
 }
+img {
+  width: "800px";
+}
 @media (max-width:981px) {
   #grid {
     display: block;
@@ -91,6 +94,6 @@ li {
   text-align: center;
   }
 img {
-  width: "80%";
+  width: "800px";
   }
 }
