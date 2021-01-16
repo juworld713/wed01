@@ -46,22 +46,16 @@ a {
     padding-right: 20px;
     border: 0px;
   }
-  .b,.v {
+  .b,.v,.c {
     background-color: gray;
     display: inline-block;
     color: #ffffff;
-    width: 230px;
+    width: 250px;
   }
   .c {
     background-color: red;
     text-decoration: none;
     font-weight:bold;
-    display: inline-block;
-    color: #ffffff;
-    width: 230px;
-  }
-  body {
-    margin: 0
   }
   h1 {
     font-size: 80px;
@@ -82,7 +76,7 @@ a {
     font-size: 45px;
   }
   ol {
-    padding-inline-start: 100px;
+    padding-inline-start: 80px;
   }
   ul {
     padding: 20px;
@@ -95,7 +89,8 @@ a {
   color: black;
   text-decoration: none;
   }
-li {
+ul li {
   text-align: center;
+  padding: 10px;
   }
 }
