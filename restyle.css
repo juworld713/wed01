@@ -59,7 +59,7 @@ a {
     margin: 0
   }
   h1 {
-    font-size: 35px;
+    font-size: 80px;
     text-align: center;
     border-bottom: 3px double gray;
     margin: 0;
@@ -67,12 +67,14 @@ a {
   }
   h2 {
     color:brown;
+    font-size: 65px;
   }
   ul {
     padding: 20px;
     margin: 0;
     list-style: none;
     display: inline-flex;
+    font-size: 50px
 }
   a {
   color: black;
